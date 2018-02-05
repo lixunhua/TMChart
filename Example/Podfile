@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TMChartSampleDemo_Example' do
+  pod 'TMChartSampleDemo', :path => '../'
+
+  target 'TMChartSampleDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
