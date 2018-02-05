@@ -11,10 +11,10 @@
 		4AB891902F7719DCE52A89CC2D87FD97 /* Pods-TMChartSampleDemo_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E42261B1245BE7B2E41B5F11CCA1076 /* Pods-TMChartSampleDemo_Example-dummy.m */; };
 		884023AF1EABC08D95209BE009B446F6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
 		A9754BF9D2603720B2280F0CAF5B1040 /* Pods-TMChartSampleDemo_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 355D2194326CF8BD4817C707AABEF679 /* Pods-TMChartSampleDemo_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B3B539B4B5EB8EBF14A905B3DCBB183E /* TMChart-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FA2DC97775135143E6EED0207B1AF9EC /* TMChart-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BD85B14B7A48EF05AD0A0F10767E440F /* TMCircleChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 452D220B06EC9FF4AFC573DCD2C32FAB /* TMCircleChart.m */; };
-		BF0E675883B9432DBF9766E76B680CF5 /* TMChart-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AB610C935B3CB073B9DDE234BC45C8F2 /* TMChart-dummy.m */; };
-		C114A233407EFF498AFEC51B59B0090C /* TMCircleChart.h in Headers */ = {isa = PBXBuildFile; fileRef = D7D956DE841A8A1485ABE404C3A7665A /* TMCircleChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B3B539B4B5EB8EBF14A905B3DCBB183E /* TMChart-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CAFDCF7B1D314DB411B0748B1FDACE5A /* TMChart-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BD85B14B7A48EF05AD0A0F10767E440F /* TMCircleChart.m in Sources */ = {isa = PBXBuildFile; fileRef = EE86683365950522791AF161C6297404 /* TMCircleChart.m */; };
+		BF0E675883B9432DBF9766E76B680CF5 /* TMChart-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DC39FD4997E0169CA4285A62EBAE220B /* TMChart-dummy.m */; };
+		C114A233407EFF498AFEC51B59B0090C /* TMCircleChart.h in Headers */ = {isa = PBXBuildFile; fileRef = E62CCD1F91FBAB5037FDE2C7996542F9 /* TMCircleChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C39AB39542EF96FD700B9B970102276B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
 		C969E679233276A8F2F6E1B7BD9BBDAA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
 		CBFD32167943BC9837785160F8134D16 /* Pods-TMChartSampleDemo_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B864ADCEEECE630023378ABF8EC9F2F2 /* Pods-TMChartSampleDemo_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -33,39 +33,39 @@
 
 /* Begin PBXFileReference section */
 		00330E21F0979C68DBE1F73DABBC0702 /* Pods-TMChartSampleDemo_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TMChartSampleDemo_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		11191981595A79688F55A4452C9C81D5 /* TMChart-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TMChart-prefix.pch"; sourceTree = "<group>"; };
 		234E2F5D70DE6091A609E030C3C25ACF /* Pods-TMChartSampleDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TMChartSampleDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		2E42261B1245BE7B2E41B5F11CCA1076 /* Pods-TMChartSampleDemo_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TMChartSampleDemo_Example-dummy.m"; sourceTree = "<group>"; };
 		355D2194326CF8BD4817C707AABEF679 /* Pods-TMChartSampleDemo_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TMChartSampleDemo_Tests-umbrella.h"; sourceTree = "<group>"; };
 		38E3B31AB350C2B000D5F92E7D8372F0 /* Pods-TMChartSampleDemo_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TMChartSampleDemo_Tests-dummy.m"; sourceTree = "<group>"; };
-		452D220B06EC9FF4AFC573DCD2C32FAB /* TMCircleChart.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TMCircleChart.m; path = Pod/Classes/TMChart/TMCircleChart.m; sourceTree = "<group>"; };
 		4753150D2CFC65350D1946D3D280B384 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A2D7F310E63857794E135ED5B8397F8 /* Pods-TMChartSampleDemo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TMChartSampleDemo_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4FCBDDA244D354B10BCB2A276CFC0515 /* Pods-TMChartSampleDemo_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TMChartSampleDemo_Example-frameworks.sh"; sourceTree = "<group>"; };
+		569E36795F5AE6A041F2B9361C873CFE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59E6D3FF495CE73D55440692E569FC3C /* Pods-TMChartSampleDemo_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TMChartSampleDemo_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		62CCAC72AED6F49B64C3CCE0F7F6F2FA /* Pods_TMChartSampleDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TMChartSampleDemo_Example.framework; path = "Pods-TMChartSampleDemo_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6E6D7449837CB4177971A346C8E8CFA0 /* TMChart.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TMChart.xcconfig; sourceTree = "<group>"; };
+		7C656AFA7FA86C0D99B5F79C6800404C /* TMChart.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TMChart.xcconfig; sourceTree = "<group>"; };
 		833426FA91BB09DB3C5C19FCCC2EA9CC /* Pods-TMChartSampleDemo_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-TMChartSampleDemo_Tests.modulemap"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94203A89380D052EA7FFA1B160CC0E96 /* TMChart.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TMChart.framework; path = TMChart.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A624B3B5468BDD7F7B46725D1CAA6B72 /* TMChart-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TMChart-prefix.pch"; sourceTree = "<group>"; };
 		A9E530A52932B6C78D00B8D4C3B2731C /* Pods-TMChartSampleDemo_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TMChartSampleDemo_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		AB610C935B3CB073B9DDE234BC45C8F2 /* TMChart-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TMChart-dummy.m"; sourceTree = "<group>"; };
 		AFD416AC254FDD0E9B3DC57C9D6AB723 /* Pods-TMChartSampleDemo_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TMChartSampleDemo_Example-resources.sh"; sourceTree = "<group>"; };
 		B21D91CCEE83CBAA9FBF2E7E6BCA1600 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B3773A37E685684B97F62B29A50F700E /* Pods-TMChartSampleDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TMChartSampleDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		B555FBE37FA13AB5AF0D27E54DAC888E /* TMChart.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = TMChart.modulemap; sourceTree = "<group>"; };
 		B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		B864ADCEEECE630023378ABF8EC9F2F2 /* Pods-TMChartSampleDemo_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TMChartSampleDemo_Example-umbrella.h"; sourceTree = "<group>"; };
 		C329C42D88F3C12C039BCCB7C0487C72 /* Pods-TMChartSampleDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TMChartSampleDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		CDCFF015BEBD894A19C85037B34899FC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAFDCF7B1D314DB411B0748B1FDACE5A /* TMChart-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TMChart-umbrella.h"; sourceTree = "<group>"; };
 		CE7ECF824B31E02E3FBF622A7015F2E7 /* Pods-TMChartSampleDemo_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TMChartSampleDemo_Tests-resources.sh"; sourceTree = "<group>"; };
-		D09DDC510FC035B2C76431ACD4C47AAE /* TMChart.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = TMChart.modulemap; sourceTree = "<group>"; };
-		D7D956DE841A8A1485ABE404C3A7665A /* TMCircleChart.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TMCircleChart.h; path = Pod/Classes/TMChart/TMCircleChart.h; sourceTree = "<group>"; };
 		D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DC2AAE5343A6A1E6A5AF797386ADFA7D /* Pods-TMChartSampleDemo_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-TMChartSampleDemo_Example.modulemap"; sourceTree = "<group>"; };
+		DC39FD4997E0169CA4285A62EBAE220B /* TMChart-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TMChart-dummy.m"; sourceTree = "<group>"; };
+		E62CCD1F91FBAB5037FDE2C7996542F9 /* TMCircleChart.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TMCircleChart.h; path = Pod/Classes/TMChart/TMCircleChart.h; sourceTree = "<group>"; };
 		E6D5CE51A61FD52FB4B2D7E3462796E8 /* Pods_TMChartSampleDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TMChartSampleDemo_Tests.framework; path = "Pods-TMChartSampleDemo_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE86683365950522791AF161C6297404 /* TMCircleChart.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TMCircleChart.m; path = Pod/Classes/TMChart/TMCircleChart.m; sourceTree = "<group>"; };
 		F5DAD8394D4C116D87E13AB9B34FBD23 /* Pods-TMChartSampleDemo_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TMChartSampleDemo_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		F852AD63FBFF642958E640CA92020877 /* Pods-TMChartSampleDemo_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TMChartSampleDemo_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		FA2DC97775135143E6EED0207B1AF9EC /* TMChart-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TMChart-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,29 +97,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1CE55745141FFA6799409ACAC4D7E918 /* Support Files */ = {
+		3EF33CFA461EAE04B0CD3BAC9EF21B61 /* TMChart */ = {
 			isa = PBXGroup;
 			children = (
-				CDCFF015BEBD894A19C85037B34899FC /* Info.plist */,
-				D09DDC510FC035B2C76431ACD4C47AAE /* TMChart.modulemap */,
-				6E6D7449837CB4177971A346C8E8CFA0 /* TMChart.xcconfig */,
-				AB610C935B3CB073B9DDE234BC45C8F2 /* TMChart-dummy.m */,
-				A624B3B5468BDD7F7B46725D1CAA6B72 /* TMChart-prefix.pch */,
-				FA2DC97775135143E6EED0207B1AF9EC /* TMChart-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/TMChart";
-			sourceTree = "<group>";
-		};
-		348FEF94DC9CEBC6003CF22E5ED09C26 /* TMChart */ = {
-			isa = PBXGroup;
-			children = (
-				D7D956DE841A8A1485ABE404C3A7665A /* TMCircleChart.h */,
-				452D220B06EC9FF4AFC573DCD2C32FAB /* TMCircleChart.m */,
-				1CE55745141FFA6799409ACAC4D7E918 /* Support Files */,
+				E62CCD1F91FBAB5037FDE2C7996542F9 /* TMCircleChart.h */,
+				EE86683365950522791AF161C6297404 /* TMCircleChart.m */,
+				79B85AE1BBCEDCA3A324DBA28338A311 /* Support Files */,
 			);
 			name = TMChart;
-			path = ../..;
+			path = TMChart;
 			sourceTree = "<group>";
 		};
 		3FF682560C93E31F29F37C20AAF6D380 /* Pods-TMChartSampleDemo_Example */ = {
@@ -157,6 +143,28 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		6B5FCF9DDE99147D8549EA48657C5946 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3EF33CFA461EAE04B0CD3BAC9EF21B61 /* TMChart */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		79B85AE1BBCEDCA3A324DBA28338A311 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				569E36795F5AE6A041F2B9361C873CFE /* Info.plist */,
+				B555FBE37FA13AB5AF0D27E54DAC888E /* TMChart.modulemap */,
+				7C656AFA7FA86C0D99B5F79C6800404C /* TMChart.xcconfig */,
+				DC39FD4997E0169CA4285A62EBAE220B /* TMChart-dummy.m */,
+				11191981595A79688F55A4452C9C81D5 /* TMChart-prefix.pch */,
+				CAFDCF7B1D314DB411B0748B1FDACE5A /* TMChart-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/TMChart";
+			sourceTree = "<group>";
+		};
 		7BE72826508EE462E51F5A5BE7B6B321 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -170,8 +178,8 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				E2DEE520962061CD6F8EEBFEC96D5770 /* Development Pods */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				6B5FCF9DDE99147D8549EA48657C5946 /* Pods */,
 				D158608595876E87AA7CE20ED2BE4825 /* Products */,
 				7BE72826508EE462E51F5A5BE7B6B321 /* Targets Support Files */,
 			);
@@ -203,14 +211,6 @@
 				94203A89380D052EA7FFA1B160CC0E96 /* TMChart.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		E2DEE520962061CD6F8EEBFEC96D5770 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				348FEF94DC9CEBC6003CF22E5ED09C26 /* TMChart */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -512,7 +512,7 @@
 		};
 		96170288E407416353CE344711440587 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E6D7449837CB4177971A346C8E8CFA0 /* TMChart.xcconfig */;
+			baseConfigurationReference = 7C656AFA7FA86C0D99B5F79C6800404C /* TMChart.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -638,7 +638,7 @@
 		};
 		F0E788FDA6F448D089B1765E65642729 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E6D7449837CB4177971A346C8E8CFA0 /* TMChart.xcconfig */;
+			baseConfigurationReference = 7C656AFA7FA86C0D99B5F79C6800404C /* TMChart.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
