@@ -37,11 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		195E5455C2DE48E535558512 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		195E5455C2DE48E535558512 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3683FAA3526EB166CE341AD2 /* Pods-TMChartSampleDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TMChartSampleDemo_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TMChartSampleDemo_Example/Pods-TMChartSampleDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4736F006A21BEAEEACA49B4F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4736F006A21BEAEEACA49B4F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		4E7EE9789C8B3134D7204B36 /* Pods_TMChartSampleDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TMChartSampleDemo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F735903716DCB8D242E1F01 /* TMChartSampleDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TMChartSampleDemo.podspec; path = ../TMChartSampleDemo.podspec; sourceTree = "<group>"; };
+		4F735903716DCB8D242E1F01 /* TMChart.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TMChart.podspec; path = ../TMChart.podspec; sourceTree = "<group>"; };
 		541DC79556C3FB8364946ABD /* Pods_TMChartSampleDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TMChartSampleDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* TMChartSampleDemo_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TMChartSampleDemo_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -189,7 +189,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				4F735903716DCB8D242E1F01 /* TMChartSampleDemo.podspec */,
+				4F735903716DCB8D242E1F01 /* TMChart.podspec */,
 				4736F006A21BEAEEACA49B4F /* README.md */,
 				195E5455C2DE48E535558512 /* LICENSE */,
 			);
