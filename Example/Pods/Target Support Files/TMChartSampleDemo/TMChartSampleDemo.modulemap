@@ -1,6 +1,0 @@
-framework module TMChartSampleDemo {
-  umbrella header "TMChartSampleDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}

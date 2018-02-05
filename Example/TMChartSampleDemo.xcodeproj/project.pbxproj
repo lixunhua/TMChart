@@ -322,11 +322,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-TMChartSampleDemo_Example/Pods-TMChartSampleDemo_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/TMChartSampleDemo/TMChartSampleDemo.framework",
+				"${BUILT_PRODUCTS_DIR}/TMChart/TMChart.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TMChartSampleDemo.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TMChart.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

@@ -10,7 +10,8 @@
 #endif
 #endif
 
+#import "TMCircleChart.h"
 
-FOUNDATION_EXPORT double TMChartSampleDemoVersionNumber;
-FOUNDATION_EXPORT const unsigned char TMChartSampleDemoVersionString[];
+FOUNDATION_EXPORT double TMChartVersionNumber;
+FOUNDATION_EXPORT const unsigned char TMChartVersionString[];
 

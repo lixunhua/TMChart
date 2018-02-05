@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'TMChartSampleDemo_Example' do
-  pod 'TMChartSampleDemo', :path => '../'
+  pod 'TMChart', :path => '../'
 
   target 'TMChartSampleDemo_Tests' do
     inherit! :search_paths
